@@ -1,4 +1,5 @@
 ##Calculating the inverse of a large matrix can be very time consuming. 
+##These 2 functions allow the user to calculate the inverse of a square matrix and cache the value of the inverse.If the inverse of 
 ##the matrix is needed again the cached value of the inverse can be retrieved, instead of re-calculating the inverse.  
 
 ##This function is a creator function. It creates a function "set" to set the value of the matrix.
